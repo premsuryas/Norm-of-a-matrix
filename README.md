@@ -10,8 +10,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	3. Print the norm of the matrix in two decimal places.
 ## Program:
 Python
-# Register No:
-# Developed By:
+# Register No:23013598
+# Developed By:PREM KUMAR
 # 1-Norm of a Matrix
 ```
 import numpy as np
@@ -53,7 +53,7 @@ print(f"{norm:.2f}")
 
 
 
-```
+
 ## Output:
 ### 1-Norm of a Matrix
 ![output](![Alt text](<Screenshot from 2023-12-27 20-00-05.png>))
