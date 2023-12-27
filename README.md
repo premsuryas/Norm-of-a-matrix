@@ -56,18 +56,19 @@ print(f"{norm:.2f}")
 ```
 ## Output:
 ### 1-Norm of a Matrix
-file:///home/sec/Norm-of-a-matrix/Screenshot%20from%202023-12-27%2019-59-06.png
+![output](![Alt text](<Screenshot from 2023-12-27 20-00-05.png>))
 
 
 
 
 ### 2-Norm of a Matrix
-![Screenshot from 2023-12-27 20-00-05](https://github.com/premsuryas/Norm-of-a-matrix/assets/147473858/8b613c15-a765-41b1-a07d-d9e9b5fed957)
+![output](![Alt text](<Screenshot from 2023-12-27 19-59-06.png>))
 
 
 
 ### Infinity Norm of a Matrix
-![Screenshot from 2023-12-27 20-00-45](https://github.com/premsuryas/Norm-of-a-matrix/assets/147473858/c0d3de3b-9714-4331-9936-921c7661765a)
+![output](![Alt text](<Screenshot from 2023-12-27 20-00-45.png>))
+
 
 
 ## Result
